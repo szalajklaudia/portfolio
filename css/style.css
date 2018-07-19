@@ -289,6 +289,7 @@ section#contact>div.container>div.container-form>form {
     width:60%;
     float:right;
     margin-top:60px;
+    margin-right:10px;
 }
 
 ::-webkit-input-placeholder { 
@@ -317,7 +318,7 @@ section#contact>div.container>div.container-form>form>input[type="submit"] {
     color:white;
     background-color:#1ac056;
     padding:8px 25px;
-    margin-left:457px;
+    margin-left:56.5%;
 }
 
 /* LINKI-IKONY CSS */
